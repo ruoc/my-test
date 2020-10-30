@@ -1,0 +1,6 @@
+
+# Ignore .idea folder
+/config/config.php
+.idea/
+/docs
+/uploads/images/*
