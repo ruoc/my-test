@@ -22,5 +22,5 @@ Build a simple blog platform, that allow registered users could CRUD their posts
 * Rename `config/config.php.sample` to `config/config.php`
 * Config your blog in `config/config.php`
 * Setup your apache config domain to `mytest.local` or any domain defined in config.php `URL`
-* Pre-defined admin username/password: `admin@admin.co/test123`
+* Pre-defined admin username/password: `admin@admin.de/test123`
 * Pre-defined user username/password: `test@me.com/test123`
