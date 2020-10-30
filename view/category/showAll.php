@@ -43,7 +43,7 @@ $search = isset($_GET['search']) ? $_GET['search'] : '';
                         </p>
                         <div class="row">
                             <div class="col">
-                                <p class="card-text"><small class="text-muted"><?= $item['timestamp'] ?></small></p>
+                                <p class="card-text"><small class="text-muted"><?= $item['published_date'] ?></small></p>
                             </div>
 
                             <div class="col">

@@ -24,7 +24,7 @@
                                     href="<?= URL; ?>category/show/<?= $item['id']; ?>">read more</a></p>
                         <div class="row">
                             <div class="col">
-                                <p class="card-text"><small class="text-muted"><?= $item['timestamp'] ?></small></p>
+                                <p class="card-text"><small class="text-muted"><?= $item['published_date'] ?></small></p>
                             </div>
                             <div class="col">
                                 <p class="card-text pull-right"><small class="text-muted">Posted by: </br><?= $item['firstname'] . ' ' . $item['lastname'] ?></small></p>
